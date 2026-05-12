@@ -95,26 +95,25 @@ Actualmente estoy profundizando en la aplicación de la IA al desarrollo de soft
 
 ## 📌 Proyectos destacados
 
-### ComerNet
+### [ComerNet](https://github.com/Siktok/ComerNet)
 
-Proyecto desarrollado en **C#**, orientado a backend y lógica de negocio.
+Proyecto desarrollado en **C#**, orientado a backend, lógica de negocio y desarrollo de aplicaciones con enfoque .NET.
 
-### GestorFinanzas
+### [GestorFinanzas](https://github.com/Siktok/GestorFinanzas)
 
-Aplicación de gestión financiera desarrollada con **C#**.
+Aplicación de gestión financiera desarrollada con **C#**, enfocada en organización de datos, lógica de negocio y persistencia.
 
-### TaskManager
+### [TaskManager](https://github.com/Siktok/TaskManager)
 
-Proyecto de gestión de tareas desarrollado con **Python**.
+Proyecto de gestión de tareas desarrollado con **Python**, orientado a organización, control de estados y operaciones CRUD.
 
-### DigiDex
+### [DigiDex](https://github.com/Siktok/DigiDex)
 
-Proyecto web desarrollado con **HTML**.
+Proyecto web desarrollado con **HTML**, centrado en estructura de interfaz y presentación de contenido.
 
-### Generador de Podcast
+### [GeneradorPodcast](https://github.com/Siktok/GeneradorPodcast)
 
-Proyecto desarrollado con **JavaScript**, orientado a generación de contenido.
-
+Proyecto desarrollado con **JavaScript**, orientado a generación de contenido y automatización básica.
 
 ## 📫 Contacto
 
