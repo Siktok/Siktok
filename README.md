@@ -1,4 +1,4 @@
-# 👋 Hola, soy Azael Llanos González
+# Sobre mi
 
 Desarrollador **Full Stack .NET** con más de **6 años de experiencia** en desarrollo de aplicaciones web, APIs REST, microservicios y soluciones enterprise.
 
