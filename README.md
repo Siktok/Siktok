@@ -97,11 +97,11 @@ Actualmente estoy profundizando en la aplicación de la IA al desarrollo de soft
 
 ### [ComerNet](https://github.com/Siktok/ComerNet)
 
-Proyecto desarrollado en **C#**, orientado a backend, lógica de negocio y desarrollo de aplicaciones con enfoque .NET.
+Proyecto desarrollado en **C#**, orientado a backend, lógica de negocio, arquitectura y desarrollo de aplicaciones con enfoque .NET.
 
 ### [GestorFinanzas](https://github.com/Siktok/GestorFinanzas)
 
-Aplicación de gestión financiera desarrollada con **C#**, enfocada en organización de datos, lógica de negocio y persistencia.
+Aplicación de gestión financiera desarrollada con **C#**, enfocada en organización de datos, lógica de negocio, empleo de skills y persistencia.
 
 ### [TaskManager](https://github.com/Siktok/TaskManager)
 
@@ -109,11 +109,11 @@ Proyecto de gestión de tareas desarrollado con **Python**, orientado a organiza
 
 ### [DigiDex](https://github.com/Siktok/DigiDex)
 
-Proyecto web desarrollado con **HTML**, centrado en estructura de interfaz y presentación de contenido.
+Proyecto web desarrollado con **C#** , centrado en estructura de interfaz y presentación de contenido.
 
 ### [GeneradorPodcast](https://github.com/Siktok/GeneradorPodcast)
 
-Proyecto desarrollado con **JavaScript**, orientado a generación de contenido y automatización básica.
+Proyecto desarrollado con **JavaScript**, orientado a generación de contenido, automatización básica y consumo de MCPs.
 
 ## 📫 Contacto
 
