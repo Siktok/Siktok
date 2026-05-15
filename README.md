@@ -119,7 +119,6 @@ Proyecto desarrollado con **JavaScript**, orientado a generación de contenido, 
 
 - 📍 Valencia, España
 - 📧 azael1992sp@gmail.com
-- 💻 GitHub: [Siktok](https://github.com/Siktok)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/azael-llanos-gonzalez/)
 
 ---
