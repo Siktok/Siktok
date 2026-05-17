@@ -70,6 +70,7 @@ Actualmente estoy orientando mi perfil hacia el desarrollo de software asistido 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### IA aplicada al desarrollo
 
@@ -77,7 +78,7 @@ Actualmente estoy orientando mi perfil hacia el desarrollo de software asistido 
 ![LLMs](https://img.shields.io/badge/LLMs-AI%20Development-8A2BE2?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## 🤖 Intereses actuales
 
