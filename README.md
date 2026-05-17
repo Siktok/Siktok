@@ -109,7 +109,7 @@ Proyecto de gestión de tareas desarrollado con **Python**, orientado a organiza
 
 ### [DigiDex](https://github.com/Siktok/DigiDex)
 
-Proyecto web desarrollado con **C#** , centrado en estructura de interfaz y presentación de contenido.
+Proyecto web desarrollado en **C#**, con foco en la interfaz, la organización del contenido y la automatización de pruebas e integración continua usando **Playwright** y **GitHub Actions**.
 
 ### [GeneradorPodcast](https://github.com/Siktok/GeneradorPodcast)
 
