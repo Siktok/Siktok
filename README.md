@@ -98,23 +98,35 @@ Actualmente estoy profundizando en la aplicación de la IA al desarrollo de soft
 
 ### [ComerNet](https://github.com/Siktok/ComerNet)
 
-Proyecto desarrollado en **C#**, orientado a backend, lógica de negocio, arquitectura y desarrollo de aplicaciones con enfoque .NET.
+Aplicación web desarrollada con **.NET 8** y enfoque **Domain-Driven Design**, orientada a demostrar una arquitectura backend limpia y mantenible.  
+Implementa una **API RESTful** con autenticación **JWT**, documentación mediante **Swagger**, mapeo con **AutoMapper**, acceso a datos con **Dapper** e inyección de dependencias.  
+El proyecto también aplica principios **SOLID**, uso de DTOs, configuración de **CORS** y pruebas automatizadas con **MSTest**.
 
-### [GestorFinanzas](https://github.com/Siktok/GestorFinanzas)
+### [Gestor de Finanzas](https://github.com/Siktok/GestorFinanzas)
 
-Aplicación de gestión financiera desarrollada con **C#**, enfocada en organización de datos, lógica de negocio, empleo de skills y persistencia.
+Aplicación de finanzas personales desarrollada con **ASP.NET Core MVC**, **.NET 10**, **Razor**, **EF Core** y base de datos local **SQLite**.  
+Permite gestionar cuentas, categorías, movimientos, transferencias e inversiones, aplicando competencias de modelado de dominio mediante **skills**, reglas de negocio, persistencia de datos y cálculo financiero.  
+Incluye documentación técnica, migraciones automáticas, reglas financieras bien definidas y tests con **xUnit** para validar cálculos e integración básica MVC.
 
-### [TaskManager](https://github.com/Siktok/TaskManager)
+### [Task Manager](https://github.com/Siktok/TaskManager)
 
-Proyecto de gestión de tareas desarrollado con **Python**, orientado a organización, control de estados y operaciones CRUD.
+Gestor de tareas desarrollado en **Python**, con interfaz de línea de comandos para añadir, listar, completar y eliminar tareas.  
+Integra la **API de OpenAI** para desglosar tareas complejas en subtareas accionables, combinando gestión tradicional con asistencia mediante IA.  
+Usa persistencia en **JSON**, variables de entorno para credenciales y pruebas unitarias con **unittest** para validar la lógica principal.
 
 ### [DigiDex](https://github.com/Siktok/DigiDex)
 
-Proyecto web desarrollado en **C#**, con foco en la interfaz, la organización del contenido y la automatización de pruebas e integración continua usando **Playwright** y **GitHub Actions**.
+Aplicación web desarrollada con **.NET 10**, **ASP.NET Core Blazor Web App** e **Interactive Server**, orientada a consultar información de Digimon mediante la API pública **Digi-API**.  
+Incluye listado paginado, búsqueda dinámica, vista de detalle, modos de visualización, estados de carga, errores y resultados vacíos.  
+El proyecto incorpora pruebas E2E con **Playwright** e integración continua con **GitHub Actions** para validar automáticamente el build y un flujo principal.
 
-### [GeneradorPodcast](https://github.com/Siktok/GeneradorPodcast)
+### [Generador de Podcast](https://github.com/Siktok/GeneradorPodcast)
 
-Proyecto desarrollado con **JavaScript**, orientado a generación de contenido, automatización básica y consumo de MCPs.
+Aplicación web desarrollada con **Angular 21**, **Node.js** y **Express** para generar podcasts a partir de documentos PDF.  
+El backend procesa los archivos con **OpenAI**, genera un guion conversacional estructurado y convierte el diálogo en audio mediante **ElevenLabs**.  
+Incluye subida de archivos, reproducción del audio desde la interfaz y pruebas automatizadas con **Vitest** para frontend y backend.
+
+---
 
 ## 📫 Contacto
 
